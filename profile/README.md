@@ -107,6 +107,7 @@ Bridge Out
 ## GitHub Actions CI/CD
 
 `main` 브랜치 푸시 시 자동 빌드 → Docker 이미지 → Oracle Cloud 배포
+
 *마이너한 개발시엔 신규 브랜치 혹은 로컬에서 개발 권장
 
 ```bash
